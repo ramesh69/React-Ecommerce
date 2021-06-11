@@ -2,7 +2,8 @@
 
 ### [Live Site](https://pranacloathing.netlify.app)
 
-![E-commerce](https://i.ibb.co/vv47Dx1/Untitled.png) ![E-commerce](https://i.ibb.co/XXLPbQD/cart.png)
+![E-commerce](http://www.simpleimageresizer.com/_uploads/photos/4eea4b52/Untitled_0.png) 
+![E-commerce](http://www.simpleimageresizer.com/_uploads/photos/4eea4b52/cart_0.png)
 
 
 
